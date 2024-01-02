@@ -24,6 +24,6 @@
 # # pandas 설치
 # install("pandas")
 
-import pandas as pd
-data = pd.read_csv('./025/weather_data.csv')
-print(data)
+# import pandas as pd
+# data = pd.read_csv('./025/weather_data.csv')
+# print(data)
