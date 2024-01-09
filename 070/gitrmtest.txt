@@ -1,0 +1,2 @@
+git rm 070/gitrmtest.txt
+git rm --cached 070/gitrmtest.txt
