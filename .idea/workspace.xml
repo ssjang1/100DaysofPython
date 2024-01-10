@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eb970dd-a5b6-4003-abc9-63990d737dfd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/025/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/025/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="4eb970dd-a5b6-4003-abc9-63990d737dfd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +13,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2aNNZI4VDQUhpN8jZt8Fl08wqLo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/shawn/dev/Dacon",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/shawn/dev/construction",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -49,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704155130534</updated>
       <workItem from="1704155131663" duration="44000" />
+      <workItem from="1704867877962" duration="66000" />
     </task>
     <servers />
   </component>
